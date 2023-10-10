@@ -1,4 +1,5 @@
 # Lending Club Case Study
+
  Lending loans to ‘risky’ applicants is the largest source of financial loss
 (called credit loss). The credit loss is the amount of money lost by the lender 
 when the borrower refusesto pay or runs away with the money owed.  
@@ -37,21 +38,16 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.7.6
+- NumPy - version 1.18.1
+- Pandas - version 1.2.3
+- Matplotlib - version 3.1.3
+- Seaborn - version 0.10.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+Contributers:
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
+Anjali Tripathi
+Vijay 
 
 
 <!-- Optional -->
