@@ -29,10 +29,9 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- for long terms chances of being defaulter is high
+- when we go from high to low chance of defaulter is high
+- in debt consoildation high chance of deafulter
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -46,8 +45,8 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 Contributers:
 
+Vijay
 Anjali Tripathi
-Vijay 
 
 
 <!-- Optional -->
